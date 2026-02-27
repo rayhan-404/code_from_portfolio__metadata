@@ -18,6 +18,11 @@
     "githubUrl": "https://github.com/rayhan-404/QuickSort-BinarySearch",
     "status": "public",
     "featured": true,
-    "files": []
+    "files": [
+      {
+        "name": "main.cpp",
+        "content": ""
+      }
+    ]
   }
 ]
