@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1772187476824,
+    "name": "QuickSort-BinarySearch",
+    "emoji": "🎮",
+    "description": "The program generates a random array, sorts it using Quick Sort, and then performs a binary search on it.",
+    "longDesc": "The program generates a random array, sorts it using Quick Sort, and then performs a binary search on it.",
+    "language": "C++",
+    "langColor": "#f34b7d",
+    "tags": [],
+    "category": [
+      "backend"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "updated": "just now",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/rayhan-404/QuickSort-BinarySearch",
+    "status": "public",
+    "featured": true,
+    "files": []
+  }
+]
