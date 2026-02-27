@@ -21,7 +21,7 @@
     "files": [
       {
         "name": "main.py",
-        "content": ""
+        "content": "import random\n\n\nuser_input = input(\"Your Choice ?  Rock , Paper or Scissor\\n\").lower()\noptions = [\"rock\", \"paper\", \"scissor\"]\n\ncomputer_choice = random.choice(options)\n\nprint(f\"\\n\\n**************************\\nYour Choice : {user_input}\")\nprint(f\"Computer Choice : {computer_choice}\\n**************************\\n\\n\")\n\n\nif (\n    (user_input == \"rock\" and computer_choice == \"scissor\")\n    or (user_input == \"scissor\" and computer_choice == \"paper\")\n    or (user_input == \"paper\" and computer_choice == \"rock\")\n):\n    print(\"        You win !\\n\\n\")\n\nelif user_input == computer_choice:\n    print(\"        Match Draw..\\n\\n\")\n\nelse:\n    print(\"        You Lost !\\n\\n\")"
       }
     ]
   }
