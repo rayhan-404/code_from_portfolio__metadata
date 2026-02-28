@@ -21,7 +21,7 @@
     "files": [
       {
         "name": "main.cpp",
-        "content": ""
+        "content": "#include <iostream>\n#include <string>\n#include <cstdlib>\n#include <ctime>\n\nusing namespace std;\n\nstring generatePassword(int length) {\n    string chars = \"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()\";\n    string password = \"\";\n\n    for (int i = 0; i < length; i++) {\n        int index = rand() % chars.size();\n        password += chars[index];\n    }\n\n    return password;\n}\n\nint main() {\n    srand(time(0));\n\n    int length;\n    cout << \"Enter password length: \";\n    cin >> length;\n\n    if (length <= 0) {\n        cout << \"Invalid length!\" << endl;\n        return 0;\n    }\n\n    string password = generatePassword(length);\n\n    cout << \"Generated Password: \" << password << endl;\n\n    return 0;\n}"
       }
     ]
   },
