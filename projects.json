@@ -18,7 +18,12 @@
     "githubUrl": "https://github.com/rayhan-404/Random_Password_Generator",
     "status": "public",
     "featured": false,
-    "files": []
+    "files": [
+      {
+        "name": "main.cpp",
+        "content": ""
+      }
+    ]
   },
   {
     "id": 1772294183960,
