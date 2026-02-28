@@ -1,5 +1,26 @@
 [
   {
+    "id": 1772294671137,
+    "name": "Random_Password_Generator",
+    "emoji": "🚀",
+    "description": "A random password generator",
+    "longDesc": "a random password generatpr",
+    "language": "C++",
+    "langColor": "#f34b7d",
+    "tags": [],
+    "category": [
+      "backend"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "updated": "just now",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/rayhan-404/Random_Password_Generator",
+    "status": "public",
+    "featured": false,
+    "files": []
+  },
+  {
     "id": 1772294183960,
     "name": "Number-Guessing-Game",
     "emoji": "🚀",
