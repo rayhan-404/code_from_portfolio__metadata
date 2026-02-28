@@ -18,7 +18,12 @@
     "githubUrl": "https://github.com/rayhan-404/Number-Guessing-Game",
     "status": "public",
     "featured": false,
-    "files": []
+    "files": [
+      {
+        "name": "main.cpp",
+        "content": ""
+      }
+    ]
   },
   {
     "id": 1772294072118,
