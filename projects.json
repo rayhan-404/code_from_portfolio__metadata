@@ -16,6 +16,11 @@
     "githubUrl": "https://github.com/rayhan-404/test",
     "status": "public",
     "featured": false,
-    "files": []
+    "files": [
+      {
+        "name": "test.cpp",
+        "content": ""
+      }
+    ]
   }
 ]
