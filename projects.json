@@ -1,5 +1,26 @@
 [
   {
+    "id": 1772293676361,
+    "name": "Number-Guessing-Game",
+    "emoji": "🚀",
+    "description": "A simple Number Guessing Game",
+    "longDesc": "A simple Number Guessing Game A simple Number Guessing Game A simple Number Guessing Game",
+    "language": "C++",
+    "langColor": "#f34b7d",
+    "tags": [],
+    "category": [
+      "backend"
+    ],
+    "stars": 4,
+    "forks": 0,
+    "updated": "just now",
+    "liveUrl": null,
+    "githubUrl": "https://github.com/rayhan-404/Number-Guessing-Game",
+    "status": "public",
+    "featured": true,
+    "files": []
+  },
+  {
     "id": 1772187476824,
     "name": "QuickSort-BinarySearch",
     "emoji": "🎮",
